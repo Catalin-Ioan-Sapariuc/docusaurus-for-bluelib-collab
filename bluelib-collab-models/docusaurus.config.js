@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Description of Recommender Models in BlueLibs',
   tagline: 'Description og Models',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://bluelibs-rec-models-description.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
