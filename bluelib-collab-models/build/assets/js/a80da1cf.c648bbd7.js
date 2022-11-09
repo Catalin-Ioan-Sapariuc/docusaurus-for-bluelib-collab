@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbluelib_collab_models=self.webpackChunkbluelib_collab_models||[]).push([[205],{4863:l=>{l.exports=JSON.parse('{"label":"docusaurus","permalink":"/blog/tags/docusaurus","allTagsPath":"/blog/tags","count":4}')}}]);
